@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently studying computer science for my Bachelor's degree!
+
+I enjoy Game Development as well as other programming related projects^^
+
 <!--
 **batencle/batencle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
